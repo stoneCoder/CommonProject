@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Dialect/!svn/ver/212/IOS/trunk/Chat/Chat/ThreeFramework/MJRefresh
+END
+MJRefreshHeaderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Dialect/!svn/ver/212/IOS/trunk/Chat/Chat/ThreeFramework/MJRefresh/MJRefreshHeaderView.h
+END
+MJRefreshConst.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Dialect/!svn/ver/212/IOS/trunk/Chat/Chat/ThreeFramework/MJRefresh/MJRefreshConst.h
+END
+MJRefreshHeaderView.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Dialect/!svn/ver/212/IOS/trunk/Chat/Chat/ThreeFramework/MJRefresh/MJRefreshHeaderView.m
+END
+UIScrollView+Extension.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Dialect/!svn/ver/212/IOS/trunk/Chat/Chat/ThreeFramework/MJRefresh/UIScrollView+Extension.h
+END
+MJRefreshFooterView.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Dialect/!svn/ver/212/IOS/trunk/Chat/Chat/ThreeFramework/MJRefresh/MJRefreshFooterView.h
+END
+MJRefreshConst.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Dialect/!svn/ver/212/IOS/trunk/Chat/Chat/ThreeFramework/MJRefresh/MJRefreshConst.m
+END
+UIScrollView+Extension.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Dialect/!svn/ver/212/IOS/trunk/Chat/Chat/ThreeFramework/MJRefresh/UIScrollView+Extension.m
+END
+MJRefreshFooterView.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Dialect/!svn/ver/212/IOS/trunk/Chat/Chat/ThreeFramework/MJRefresh/MJRefreshFooterView.m
+END
+UIScrollView+MJRefresh.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Dialect/!svn/ver/212/IOS/trunk/Chat/Chat/ThreeFramework/MJRefresh/UIScrollView+MJRefresh.h
+END
+MJRefreshBaseView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Dialect/!svn/ver/212/IOS/trunk/Chat/Chat/ThreeFramework/MJRefresh/MJRefreshBaseView.h
+END
+UIScrollView+MJRefresh.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Dialect/!svn/ver/212/IOS/trunk/Chat/Chat/ThreeFramework/MJRefresh/UIScrollView+MJRefresh.m
+END
+UIView+Extension.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Dialect/!svn/ver/212/IOS/trunk/Chat/Chat/ThreeFramework/MJRefresh/UIView+Extension.h
+END
+MJRefreshBaseView.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Dialect/!svn/ver/212/IOS/trunk/Chat/Chat/ThreeFramework/MJRefresh/MJRefreshBaseView.m
+END
+UIView+Extension.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Dialect/!svn/ver/212/IOS/trunk/Chat/Chat/ThreeFramework/MJRefresh/UIView+Extension.m
+END
+MJRefresh.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Dialect/!svn/ver/212/IOS/trunk/Chat/Chat/ThreeFramework/MJRefresh/MJRefresh.h
+END
